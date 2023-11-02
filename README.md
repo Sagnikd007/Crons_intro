@@ -2,7 +2,6 @@
 
 Basically I am appending time to a file every minute using Cron in Node js.
 <p align="center">
-  <img src="logo.svg" alt="cron for Node.js logo" height="150">
   <br />
   <b>cron</b> is a robust tool for running jobs (functions or commands) on schedules defined using the cron syntax.
   <br />
